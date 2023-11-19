@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../img/logo.svg';
+import logo from '../img/nosmotech-logo.jpeg';
 import { Navbar, Provider, Container } from 'rendition';
 import { NetworkInfoForm } from './NetworkInfoForm';
 import { Notifications } from './Notifications';
